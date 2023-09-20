@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on some tools I can use for work.
-- 🌱 I’m currently learning advanced React, JavaScript and Python
+- 🌱 I’m currently learning advanced React and TypeScript
 - 👯 I’m looking to collaborate on side projects.
 - 🤔 I’m looking for help with coming up with new ideas.
 - 📫 How to reach me: <a href="https://melvinpeepers.com" target="_blank">Portfolio</a>
