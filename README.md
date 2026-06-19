@@ -6,7 +6,9 @@
 </p>
 
 - 🔭 I’m currently working on some tools I can use for work.
-- 🌱 I’m currently learning advanced React and TypeScript
+- 🌱 Senior Support Engineer at Netlify specializing in modern web infrastructure, developer platforms, incident response, and operational tooling.
+- 🌱 Building AI-assisted support workflows, automation tooling, and React/TypeScript applications.
+- 🌱 Interested in Developer Experience, AI-powered support systems, workflow orchestration, and platform reliability.
 - 👯 I’m looking to collaborate on side projects.
 - 🤔 I’m looking for help with coming up with new ideas.
 - 📫 How to reach me: <a href="https://melvinpeepers.com" target="_blank">Portfolio</a>
